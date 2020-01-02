@@ -1,2 +1,2 @@
 # gravite
-short simulation of gravity in space
+short simulation of gravity in space, in C++ with SSFML
