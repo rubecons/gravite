@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -std=c++11 -pthread -lX11 -g -O3 -DNDEBUG   CMakeFiles/run.dir/src/Corps.cpp.o CMakeFiles/run.dir/src/Horloge.cpp.o CMakeFiles/run.dir/src/Rendu.cpp.o CMakeFiles/run.dir/src/Univers.cpp.o CMakeFiles/run.dir/src/main.cpp.o  -o ../bin/run 

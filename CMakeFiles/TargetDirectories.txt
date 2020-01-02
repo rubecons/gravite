@@ -1,3 +1,0 @@
-/home/ruben/Documents/Projets/gravite/CMakeFiles/rebuild_cache.dir
-/home/ruben/Documents/Projets/gravite/CMakeFiles/edit_cache.dir
-/home/ruben/Documents/Projets/gravite/CMakeFiles/run.dir
